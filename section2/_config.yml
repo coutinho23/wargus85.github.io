@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: Warren's Intro to IT Assignment 1
+description: This site was established for my RMIT assignment
+pages:
+  markdown:
+    extras: true
