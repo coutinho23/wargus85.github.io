@@ -33,5 +33,7 @@ This is a fantastic opportunity to join an organisation that uses modern enterpr
 * Well-developed organisational and time management skills
 * Working knowledge of backup and recovery technologies
 
-<a target="_blank"><img src="./jobpt1.png" float=left></a>
-<a target="_blank"><img src="./jobpt2.png" float=left></a>
+# Image
+
+<img src="./jobpt1.png"/>
+<img src="./jobpt2.png" />
