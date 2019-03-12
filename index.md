@@ -18,8 +18,28 @@
  * 2012 -Bachelor of Arts: University of Western Australia.
    * Major in History. Electives in English, Politics and Philosophy.
 
+## Additional Training
+
+* 2018 – Linux Academy: LXC/LCD Deep Dive
+* 2018 – Linux Academy: OpenStack Essentials 
+* 2018 – CBT Nuggets: Object Orientated Programming with Python
+* 2018 – Cisco Threat Hunting Workshop•2018 –Microsoft: Office 365 Security and Compliance Workshop
+* 2018 – Software/DataCarpentry:Python/Unix Workshop
+* 2017 – Microsoft: Office 365 Exchange Online Administration and Configuration (+Hybrid Modules)
+* 2015 – Microsoft Office Specialist -PowerPoint 2013: West Coast Institute of TAFE.
+* 2015 – Microsoft Office Specialist -Word 2013: West Coast Institute of TAFE.
+* 2015 – Microsoft Office Specialist -Excel 2013: West Coast Institute of TAFE.
+
+## A Quick Introduction
+
+<img src="./images/2019-02-25-113210.jpg" width="300" alt="photo of me at work"/>
+
+A photo of me at work.
+
+Hi,
+
+So I'm the Linux Desktop Support Specialist at Curtin University. I image and deploy Linux machines to researchers and academics on campus. I've always loved Linux, but love can only get you so far! I'm find may advertisements now list a degree as a requirement (or equivalent experience) which is why I’m not undertaking a degree in IT. Please continue onto section 1 for more information..
+
 # Assignment Sections
 
-<center> 
 | [Section 1: Interest in IT](../section1/index.md) | [Section 2: Ideal Job](../section2/index.md) | [Section 3: Personal Profile](../section3/index.md) | [Section 4: Project Idea](../section4/index.md)
-</center>
