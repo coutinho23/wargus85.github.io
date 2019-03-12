@@ -4,3 +4,9 @@ description: This site was established for my RMIT assignment
 pages:
   markdown:
     extras: true
+include:
+  - section1.md
+  - section2.md
+  - section4.md
+  - section4.md
+  - fulljob.md
