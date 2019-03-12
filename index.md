@@ -42,4 +42,4 @@ I'm the Linux Desktop Support Specialist at Curtin University. I image and deplo
 
 # Assignment Sections
 
-| [Section 1: Interest in IT](../section1/index.md) | [Section 2: Ideal Job](../section2/index.md) | [Section 3: Personal Profile](../section3/index.md) | [Section 4: Project Idea](../section4/index.md)
+| [Section 1: Interest in IT](../section1.md) | [Section 2: Ideal Job](../section2.md) | [Section 3: Personal Profile](../section3.md) | [Section 4: Project Idea](../section4.md)
