@@ -2,7 +2,7 @@
 
 * Name: Warren Argus
 * Student ID: S3788790
-* Email Address: StudentID@student.rmit.edu.au
+* Email Address: StudentID@student.rmit.edu.au 
 * Websites:
   * [My Seldom updated blog](https://blog.warbel.net)
   * [Linkedin](https://www.linkedin.com/in/warren-argus/)
@@ -38,7 +38,7 @@ A photo of me at work.
 
 Hi,
 
-I'm the Linux Desktop Support Specialist at Curtin University. I image and deploy Linux machines to researchers and academics on campus. I've always loved Linux, but love can only get you so far! I'm finding many advertisements now list a degree as a requirement (or equivalent experience) which is why I’m now undertaking a degree in IT. Please continue onto section 1 for more information...
+I'm the Linux Desktop Support Specialist at Curtin University. I image and deploy Linux machines to researchers and academics on campus among other things. I've always loved Linux, but love can only get you so far! I'm finding many advertisements for positions I'm interested in now list a degree as a requirement (or equivalent experience) which is why I’m now undertaking a degree in IT. A few random facts about me: I run my own mail server hosted on Digital Ocean's Singapore DC, I was formerly a history teacher, photographer, and underground miner.
 
 # Assignment Sections
 
