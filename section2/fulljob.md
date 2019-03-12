@@ -12,7 +12,7 @@ This is a fantastic opportunity to join an organisation that uses modern enterpr
 * Enterprise Mobility
 * New Video Conferencing Platform
 * Cyber Security Review
-* loud Computing
+* Cloud Computing
 
 ### As an experienced Systems guru, you will enjoy variety in your role and be keen to develop your professional skills. Whilst you will be involved in project work, you will also work on the development and maintenance of systems such as:
 

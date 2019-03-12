@@ -38,7 +38,7 @@ A photo of me at work.
 
 Hi,
 
-I'm the Linux Desktop Support Specialist at Curtin University. I image and deploy Linux machines to researchers and academics on campus among other things. I've always loved Linux, but love can only get you so far! I'm finding many advertisements for positions I'm interested in now list a degree as a requirement (or equivalent experience) which is why I’m now undertaking a degree in IT. A few random facts about me: I run my own mail server hosted on Digital Ocean's Singapore DC, I was formerly a history teacher, photographer, and underground miner.
+I'm the Linux Desktop Support Specialist at Curtin University. I image and deploy Linux machines to researchers and academics on campus, and complete other standard desktop support tasks. I've always loved Linux, but love can only get you so far! I'm finding many advertisements for positions I'm interested in now list a degree as a requirement (or equivalent experience) which is why I’m now undertaking a degree in IT with RMIT. A few random facts about me: I run my own mail server hosted on Digital Ocean's Singapore DC, I was formerly a history teacher, photographer, and underground miner (I was the canary).
 
 # Assignment Sections
 
