@@ -38,7 +38,7 @@ A photo of me at work.
 
 Hi,
 
-So I'm the Linux Desktop Support Specialist at Curtin University. I image and deploy Linux machines to researchers and academics on campus. I've always loved Linux, but love can only get you so far! I'm find may advertisements now list a degree as a requirement (or equivalent experience) which is why I’m not undertaking a degree in IT. Please continue onto section 1 for more information..
+I'm the Linux Desktop Support Specialist at Curtin University. I image and deploy Linux machines to researchers and academics on campus. I've always loved Linux, but love can only get you so far! I'm finding many advertisements now list a degree as a requirement (or equivalent experience) which is why I’m now undertaking a degree in IT. Please continue onto section 1 for more information...
 
 # Assignment Sections
 
