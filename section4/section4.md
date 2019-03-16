@@ -1,11 +1,11 @@
 # Section 4: Project Idea: Caffeinate the World 
 ## Overview: A small business at business.
 
-Do you find yourself at work wishing you could make more money, but would feel too ashamed and guilty to pretend to sell consumables for a fundraiser? Worry no more! This project will allow you to sell coffee pods to your co-workers at a reasonable price you set. This project sits at the intersection of the newly emergent technologies of 3d printing, IoT and capsulised coffee. The project consists of an internet connected mechanical pod dispenser driven by a Raspberry Pi.
+Do you find yourself at work wishing you could make more money, but would feel too ashamed and guilty to pretend to sell consumables for a fundraiser? Worry no more! This project will allow you to sell coffee pods to your co-workers at a reasonable price you set. This project sits at the intersection of the emergent technologies of 3d printing, IoT and capsulised coffee. The project consists of an internet connected mechanical pod dispenser driven by a Raspberry Pi.
 
 ## Motivation: Building a project that requires a cross-section of skills
 
-The near universal prevalence of Nespresso pod machines combined with the laziness of coworkers to organise buying their own supply of pods has created a market for a small portable, PoE coffee pod dispenser with a built in payment platform. From a learning perspective such a device would require utilising a number of skills from back-end programming, database design, interface design, integrating a payment platform (Paypal) and more hands-on skills such as building and assembling the device and electronics.
+The near universal prevalence of Nespresso pod machines combined with the laziness of coworkers to organise buying their own supply of pods has created a market for a small portable, Power-over-ethernet (PoE) coffee pod dispenser with a built in payment platform. From a learning perspective such a device would require utilising a number of skills from back-end programming, database design, interface design, integrating a payment platform (Paypal) and more hands-on skills such as building and assembling the device and electronics.
 
 ## Description: The nuts and bolts
 
@@ -18,7 +18,7 @@ alt="Basic Dispenser" width="500" border="5" /></a>
 ### Physical Features:
 * PoE with additional non-PoE (outlet) power in WiFi only situations.
 * Raspberry Pi 3+ which has WiFi, storage and enough processing power to control the device
-* USB toucscreen
+* USB touchscreen
 * USB micro-servo controller and servos to operate the mechanism.
 * Ability to secure the pods to stop theft.
 
@@ -26,16 +26,16 @@ alt="Basic Dispenser" width="500" border="5" /></a>
 * Web based back-end secured with SSL where users can:
   * Remotely dispense coffee,
   * Add credit to the account,
-  * Check their pod history,
+  * Check their pod/purchase history,
   * Update their details.
 * Web based back-end where administrators can:
-  * Issue refunds, correct database entries
-  * Reset the pod counter when pods run out and they restock the device
-  * Check the device status
-  * Configure alerts
+  * Issue refunds, correct database entries,
+  * Reset the pod counter when pods run out and they restock the device,
+  * Check the device status,
+  * Configure alerts,
   * Perform system updates.
-* Paypay payment system integrated into the back-end
-* User and sales tracking with integrated monitoring systems
+* Paypay payment system integrated into the back-end.
+* User and sales tracking with integrated monitoring systems.
 * Touch enabled interface on the device.
 
 ## Tools and technologies
